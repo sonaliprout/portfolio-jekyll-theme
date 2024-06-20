@@ -1,9 +1,17 @@
 ---
 layout: post
-title: "Getting Started"
+title: "Using github"
 ---
 
-This is a portfolio Jekyll theme built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). For a guide on how to start a blog or personal website using Jekyll and GitHub Pages, please check out [this article](https://paulle.ca/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages).
+### Using github to host website
+
+GitHub is a web-based platform that hosts Git repositories, facilitating collaborative software development projects. It offers version control, issue tracking, and integration with various CI/CD tools. GitHub provides collaboration features like branching, merging, and code reviews, enhancing team workflows. It serves as a central hub for developers to share code, collaborate on projects, and manage software development lifecycles effectively.
+
+
+### Creating a new repository
+
+Users can create repositories, clone, and fork existing projects, and contribute via pull requests.
+
 
 Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/). For a guide on how to deploy a Jekyll site using GitHub Pages, please check out [this article](https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages).
 
